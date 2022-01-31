@@ -1,0 +1,14 @@
+.checkout {
+  width: 250px;
+  height: 270px;
+  display: flex;
+  flex-flow: column;
+  /* padding: 1rem; */
+  align-content: flex-end;
+  align-items: flex-end;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.button {
+  margin-top: 20px;
+}

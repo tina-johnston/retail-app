@@ -1,0 +1,29 @@
+.product {
+  width: 280px;
+  height: 300px;
+  display: flex;
+  flex-flow: column;
+  padding: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.product h1 {
+  margin: auto;
+}
+.product p {
+  margin: 0.25rem 0.5rem;
+}
+.product h3 {
+  margin: 0.25rem 0.5rem;
+  color: red;
+}
+
+.image {
+  align-self: center;
+  /* position:absolute;
+  z-index: 1; */
+}
+.product button {
+  background: coral;
+  color: white;
+}
